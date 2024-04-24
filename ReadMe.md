@@ -14,7 +14,7 @@ Action names for the provided add-ons:
 ## Installation
 1. Start the Blender. 
 2. Open menu: **Edit** -> **Preferences** -> **Add-ons** -> `Install...`
-3. Select the python file (*.py) with this add-on and press the `Install Add-on` button.  
+3. Select the python file (*.py) with an add-on and press the `Install Add-on` button.  
 The add-on will be added into a **Mesh** category.
 4. Find the add-on in the list and enable it with a checkbox.
 5. In the same **Preferences** window select the **Keymap** on the left side.
